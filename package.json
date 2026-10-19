@@ -1,0 +1,14 @@
+{
+  "name": "nr-qr-print-shop",
+  "version": "1.0.0",
+  "description": "NR QR Print Shop customer and admin starter application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.2",
+    "qrcode": "^1.5.4"
+  }
+}
